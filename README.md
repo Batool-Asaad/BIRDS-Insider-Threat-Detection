@@ -23,40 +23,10 @@ Main files you will find in this repository:
 
 ---
 
-##  Installation
-1) Clone the repository:
-```bash
-git clone <your-repo-link>
-cd BIRDS
-
-2. Install requirements:
-    pip install -r requirements.txt
 
 
- How to Run
-1. Generate predictions and fill the database: 
-    python run_inference_to_db.py
-2. Run the dashboard:
-    streamlit run app.py
 
-
-Model
-
-The main model used in this project is XGBoost.
-The model outputs a probability of malicious behavior, and we use a tuned threshold to classify the final label.
-
-
-Database
-
-The system uses a local SQLite database:
-insider_threat.db
-
-It stores:
-predictions (risk score / risk level)
-alerts (status / notes)
-
-
-Authors
+## Authors
 
 Batool Asaad
 
