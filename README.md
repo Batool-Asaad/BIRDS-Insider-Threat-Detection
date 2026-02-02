@@ -26,12 +26,6 @@ Main files you will find in this repository:
 
 
 
-## Authors
-Batool Asaad
+### Authors: Batool Asaad, Alaa Al-Quran, Elaf Almomani
 
-Alaa Al-Quran
-
-Elaf Almomani
-
-## Supervisor
- Prof. Amin Alqudah
+### Supervisor: Prof. Amin Alqudah
